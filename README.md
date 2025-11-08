@@ -104,8 +104,6 @@ step(T)
 ### With PI Controller
 <img width="1920" height="1080" alt="Screenshot 2025-11-07 225306" src="https://github.com/user-attachments/assets/3dd83489-8a76-4ce5-8820-d963fcbed015" />
 
-
-
 ### With PID Controller
 <img width="1920" height="1080" alt="Screenshot 2025-11-07 225612" src="https://github.com/user-attachments/assets/4b7db1fa-c276-43ca-8916-aa8b7d95a34d" />
 
